@@ -1,1 +1,2 @@
 # NewJavaProject
+My new Project
